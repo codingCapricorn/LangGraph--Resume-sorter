@@ -1,2 +1,2 @@
 # LangGraph
-LangGraph - Simple resume sorter
+- Simple Candidate sorting with LangGraph
